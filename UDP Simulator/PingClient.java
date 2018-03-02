@@ -4,8 +4,6 @@ import java.util.*;
 import java.time.*;
 import java.time.format.*;
 
-// attribute: http://www.daimi.au.dk/~carl/Uge6/PingClient.java
-// attribute: http://people.cs.uchicago.edu/~wconner/mpcs54001/projects/PeriodicDateTime.java
 
 /**
  * Client to generate a ping requests over UDP.
